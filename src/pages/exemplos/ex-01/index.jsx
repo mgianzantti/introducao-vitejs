@@ -1,11 +1,10 @@
-
-function Exemplo01 () {
-    return(
+function Exemplo01() {
+    return (
         <>
-             <h1>Exemplo 1</h1>
-             <p>Conteúdo mínimo para componemte React</p>
+            <h1>Exemplo 1</h1>
+            <p>Conteúdo mínimo para componente React</p>
         </>
     )
 }
 
-export default Exemplo01; 
+export default Exemplo01;
