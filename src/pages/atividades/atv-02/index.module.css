@@ -10,6 +10,18 @@
     flex-direction: row;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 96vh;
+    justify-content: center;
+}
+
+.containerOperacoes {
+    display: flex;
+    flex-direction: row;
+}
+
 .containerLabel {
     display: flex;
     flex-direction: column;
