@@ -11,7 +11,7 @@ import Atividade1 from './pages/atividades/atv-01';
 import Atividade2 from './pages/atividades/atv-02';
 import Atividade03 from './pages/atividades/atv-03';
 
-function App() {
+export default function App() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
