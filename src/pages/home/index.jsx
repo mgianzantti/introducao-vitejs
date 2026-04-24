@@ -11,8 +11,8 @@ import { Link } from "react-router";
             <h2>Exemplos</h2>       
             <Link to="/exemplo/1">Exemplo 1 - Componente básico</Link>
             <Link to="/exemplo/2">Exemplo 2 - Uso de module CSS</Link> 
-            <Link to="/exemplo/3">Exemplo 3</Link>  
-            <Link to="/exemplo/4">Exemplo 4</Link>  
+            <Link to="/exemplo/3">Exemplo 3 - Contador</Link>  
+            <Link to="/exemplo/4">Exemplo 4 - Botões</Link>  
                
           </div>
           
