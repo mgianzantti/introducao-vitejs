@@ -1,0 +1,51 @@
+.container{
+    width: 30%;
+    margin: auto;
+    padding: 40px;
+    background: #f5f5f5;
+    border-radius: 20px;
+}
+
+.container h1{
+    color: darkred;
+    margin-bottom: 3px;
+}
+
+.formulario{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.qtd{
+    width: 80px;
+}
+
+.produto{
+    width: 800px;;
+}
+
+.formulario input{
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid #ddd;
+    font-size: 18px;
+}
+
+.formulario button{
+    background: darkred;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.lista p{
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
